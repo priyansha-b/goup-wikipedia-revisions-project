@@ -1,0 +1,6 @@
+Over time...
+    Number of revisions 
+    Time between revisions
+    Number of "direct" reversions 
+    Presence of certain keywords ["activist","capitalist","protest","disrupt","demonstration"]
+    Number of unique contributors (maybe make it a cumulative function?)
