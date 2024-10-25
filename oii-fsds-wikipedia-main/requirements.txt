@@ -23,7 +23,7 @@ matplotlib==3.9.2
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
 numpy==2.1.2
-oii-fsds-wikipedia @ file:///Users/teaching_demo/Documents/GitHub/oii-fsds-wikipedia
+# oii-fsds-wikipedia @ file:///Users/teaching_demo/Documents/GitHub/oii-fsds-wikipedia
 packaging==24.1
 pandas==2.2.3
 parso==0.8.4
